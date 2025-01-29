@@ -43,3 +43,5 @@ O Selenium abrirá o navegador, navegará pelo site e iniciará o download dos a
 
 # 📜 Licença
 Este projeto é de código aberto e pode ser usado livremente para fins educacionais ou profissionais.
+
+Desenvolvido por Caio Renato Rodrigues Vicente
